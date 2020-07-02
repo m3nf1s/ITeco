@@ -47,7 +47,6 @@ void SplitFile(FileInformer& file_informer)
             ++index;
         }
 
-        //buffer.clear();
         index = 0;
         ++counter;
         ofs.close();

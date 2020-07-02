@@ -15,7 +15,7 @@ public:
     uint64_t GetNumberFiles() const;
 
 private:
-    uint64_t RAM_limits_{ 0 },
-        precision_{ 0 },
-        number_files_{ 0 };
+    uint64_t RAM_limits_   { 0 },
+             precision_    { 0 },
+             number_files_ { 0 };
 };

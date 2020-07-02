@@ -18,11 +18,11 @@ public:
 		const auto finish = std::chrono::steady_clock::now();
 		const auto duration = finish - _start;
 		std::cerr << _message
-			<< std::chrono::duration_cast<std::chrono::milliseconds>(duration).count()
-			<< " ms" << std::endl;
+				  << std::chrono::duration_cast<std::chrono::milliseconds>(duration).count()
+				  << " ms" << std::endl;
 	}
 private:
-	std::string _message;
+	std::string							  _message;
 	std::chrono::steady_clock::time_point _start;
 };
 
