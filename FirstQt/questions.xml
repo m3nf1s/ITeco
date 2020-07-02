@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <Text>В Японии ученики на доске пишут кисточкой с цветными чернилами? </Text>
+    <Answer>true</Answer>
+  </Question>
+  <Question>
+    <Text>В Австралии практикуется применение одноразовых школьных досок?</Text>
+    <Answer>false</Answer>
+  </Question>
+  <Question>
+    <Text>Авторучка была изобретена еще в Древнем Египте?</Text>
+    <Answer>true</Answer>
+  </Question>
+  <Question>
+    <Text>Шариковая ручка сначала применялась только военными летчиками?</Text>
+    <Answer>true</Answer>
+  </Question>
+  <Question>
+    <Text>В Африке выпускаются витаминизированные карандаши для детей, имеющих обыкновение грызть что попало? </Text>
+    <Answer>true</Answer>
+  </Question>
+  <Question>
+    <Text>В некоторые виды цветных карандашей добавляется экстракт моркови для большей прочности грифеля?</Text>
+    <Answer>false</Answer>
+  </Question>
+  <Question>
+    <Text>Римляне носили штаны?</Text>
+    <Answer>false</Answer>
+  </Question>
+  <Question>
+    <Text>Если пчела ужалит кого-либо, то она погибнет? </Text>
+    <Answer>true</Answer>
+  </Question>
+  <Question>
+    <Text>Правда ли что, пауки питаются собственной паутиной?</Text>
+    <Answer>true</Answer>
+  </Question>
+  <Question>
+    <Text>В одном корейском цирке двух крокодилов научили танцевать вальс.</Text>
+    <Answer>false</Answer>
+  </Question>
+  <Question>
+    <Text>На зиму пингвины улетают на север? </Text>
+    <Answer>false</Answer>
+  </Question>
+  <Question>
+    <Text>Если камбалу положить на шахматную доску, она тоже станет клетчатой?</Text>
+    <Answer>true</Answer>
+  </Question>
+  <Question>
+    <Text>Спартанские воины перед битвой опрыскивали волосы духами.</Text>
+    <Answer>true</Answer>
+  </Question>
+  <Question>
+    <Text>Мыши подрастая становятся крысами?</Text>
+    <Answer>false</Answer>
+  </Question>
+  <Question>
+    <Text>Некоторые лягушки умеют летать?</Text>
+    <Answer>true</Answer>
+  </Question>
+</ArrayOfQuestion>
